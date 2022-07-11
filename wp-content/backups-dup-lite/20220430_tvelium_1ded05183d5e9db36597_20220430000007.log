@@ -1,0 +1,84 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 30.04.2022 00:00
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.4.5
+WORDPRESS:	5.9.3
+PHP INFO:	7.4.21 | SAPI: apache2handler
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (1536M default) 
+MEMORY STACK: 14MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20220430_tvelium_1ded05183d5e9db36597_20220430000007_database.sql
+SQL FILE SIZE: 619.84KB (634714)
+SQL FILE TIME: 2022-04-30 00:00:19
+SQL RUNTIME: 3.09 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  D:/OSPanel/domains/tvelium-comp.lc
+ARCHIVE FILE: 20220430_tvelium_1ded05183d5e9db36597_20220430000007_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	90.74MB
+STATS:	Dirs 392 | Files 3,680
+SQL ADDED: 20220430_tvelium_1ded05183d5e9db36597_20220430000007_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 4072
+    [filename] => D:\OSPanel\domains\tvelium-comp.lc\wp-content\backups-dup-lite\tmp\20220430_tvelium_1ded05183d5e9db36597_20220430000007_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 4071
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 40.19MB
+ARCHIVE RUNTIME: 34.95 sec.
+MEMORY STACK: 14MB
+building installer
+add_extra_files1
+add_extra_files2
+add_extra_files3
+add_extra_files4
+Doing archive file check
+add_extra_files5
+add_extra_files6
+add_extra_files8
+Successfully opened zip D:/OSPanel/domains/tvelium-comp.lc/wp-content/backups-dup-lite/tmp/20220430_tvelium_1ded05183d5e9db36597_20220430000007_archive.zip
+Adding enhanced installer files to archive using ZipArchive
+Installer files added to archive
+Added to archive
+After ziparchive close when adding installer
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 619.84KB
+INSTALLER FILE: 64.59KB
+ARCHIVE FILE: 41.21MB 
+EXPECTED FILE/DIRECTORY COUNT: 4,072
+ACTUAL FILE/DIRECTORY COUNT: 4,071
+ТЕСТ ЛОГИКИ АРХИВА: Пройден
+
+********************************************************************************
+RECORD ID:[4]
+TOTAL PROCESS RUNTIME: 39.57 sec.
+PEAK PHP MEMORY USED: 14MB
+DONE PROCESSING => 20220430_tvelium 30.04.2022 00:00
+
